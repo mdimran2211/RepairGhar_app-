@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "477906781979",
+    "project_id": "repair-ghar",
+    "storage_bucket": "repair-ghar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477906781979:android:4ea97d8545ec26dac0f5be",
+        "android_client_info": {
+          "package_name": "com.example.repair_ghar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOiqj_s5E2uqGlR8cvH9CzW0o77X9Zf9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477906781979:android:61d46f8fc48b942ec0f5be",
+        "android_client_info": {
+          "package_name": "com.example.repair_ghar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOiqj_s5E2uqGlR8cvH9CzW0o77X9Zf9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477906781979:android:7483621d5a12832cc0f5be",
+        "android_client_info": {
+          "package_name": "com.example.repairgharnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOiqj_s5E2uqGlR8cvH9CzW0o77X9Zf9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
