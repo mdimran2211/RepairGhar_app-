@@ -1,20 +1,22 @@
-<<<<<<< HEAD
-# repairgharnew
+# 🔧 Repair Ghar App
 
-A new Flutter project.
+A home service booking mobile app built using Flutter & Firebase.
 
-## Getting Started
+## 🚀 Features
+- Firebase OTP Login
+- Book AC, Fan, Cooler repair
+- Real-time booking with Firestore
+- Clean UI
+- Android app
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Firebase Auth
+- Cloud Firestore
+- GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 App Purpose
+This app allows users to book home repair services like AC repair, electrician and cooler repair easily.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# RepairGhar_app-
->>>>>>> b6460983c1d9ced9d89e2b36065815a9933fea93
+## 👨‍💻 Developer
+Md Imran
